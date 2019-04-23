@@ -1,3 +1,7 @@
+.fixed{
+    position:;
+    z-index: 99;
+}
 .middle{
     margin-top: 5%;    
     align-content: center;
